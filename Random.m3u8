@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Poster_film_dune_part_two.jpg",Channel 1
+https://9str-m3u8v1.playm4u.xyz/m3u8v2/auto/6625e8c3e23f92cba9acdcba/1f015393fbb11bd927e968103836ec69/7e9b8af45107f87a5377fcffed8e0989/1716227609/79f41f938a142cdee78ff722e07d504f.m3u8
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="Kungfu Panda 4" tvg-logo="https://www.google.com/amp/s/www.jawapos.com/music-movie/amp/013537078/siap-siap-serial-kung-fu-panda-4-akan-segera-tayang-di-bioskop-awal-tahun",Kungfu Panda 4
+https://be6721.rcr72.waw04.cdn112.com/hls2/02/05886/u8vuvfu3a5g2_x/index-v1-a1.m3u8?t=aEVw5w7MB0B8-39SwzzNdxe6OAldeIdBsz--IRtGIkI&s=1716226717&e=43200&f=29430913&srv=53&asn=8849&sp=5500
+
+#EXTINF:-1 tvg-id="channel3" tvg-name="Godzilla x Kong: The New Empire (2024)" tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/03/godzilla_x_kong_the_new_empire_ver14_xxlg.jpg",Godzilla x Kong: The New Empire (2024)
+https://e4uqft19bm9c.enaak-cdn.com/hls2/01/01690/adz0osbm22ll_n/index-v1-a1.m3u8?t=gue5fk3nIn6GzYKbnYgggV2DPshavg_Ba-xIUmeYpaA&s=1716215796&e=129600&f=8453835&srv=ycI2Hawt23ZP&i=0.4&sp=500&p1=ycI2Hawt23ZP&p2=ycI2Hawt23ZP&asn=7713
+
