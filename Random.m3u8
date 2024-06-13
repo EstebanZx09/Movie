@@ -1,7 +1,7 @@
-#EXTM3U
+#EXTINF:-1 tvg-name="Dube" tvg-logo="Null",Dube
 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Poster_film_dune_part_two.jpg",Channel 1
-https://9str-m3u8v1.playm4u.xyz/m3u8v2/auto/6625e8c3e23f92cba9acdcba/1f015393fbb11bd927e968103836ec69/7e9b8af45107f87a5377fcffed8e0989/1716227609/79f41f938a142cdee78ff722e07d504f.m3u8
+https://cdn110.minkyuo.com/data/2/0F/2stbi0x9Nfp2aQWfmBVvaBrQ3BULgUu2qTI/2stbi0x9Nfp2aQWfmBVvaBrQ3BULgUu2qTI720.m3u8
 
 #EXTINF:-1 tvg-id="channel2" tvg-name="Kungfu Panda 4" tvg-logo="https://www.google.com/amp/s/www.jawapos.com/music-movie/amp/013537078/siap-siap-serial-kung-fu-panda-4-akan-segera-tayang-di-bioskop-awal-tahun",Kungfu Panda 4
 #EXTINF:-1 tvg-name="Done 2" tvg-logo="",Done 2
