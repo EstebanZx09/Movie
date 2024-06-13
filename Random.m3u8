@@ -1,14 +1,4 @@
-#EXTINF:-1 tvg-name="Dube" tvg-logo="Null",Dube
+#EXTM3U
 
-#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Poster_film_dune_part_two.jpg",Channel 1
-https://cdn110.minkyuo.com/data/2/0F/2stbi0x9Nfp2aQWfmBVvaBrQ3BULgUu2qTI/2stbi0x9Nfp2aQWfmBVvaBrQ3BULgUu2qTI720.m3u8
-
-#EXTINF:-1 tvg-id="channel2" tvg-name="Kungfu Panda 4" tvg-logo="https://www.google.com/amp/s/www.jawapos.com/music-movie/amp/013537078/siap-siap-serial-kung-fu-panda-4-akan-segera-tayang-di-bioskop-awal-tahun",Kungfu Panda 4
-#EXTINF:-1 tvg-name="Done 2" tvg-logo="",Done 2
-
-#EXTINF:-1 tvg-id="channel3" tvg-name="Godzilla x Kong: The New Empire (2024)" tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/03/godzilla_x_kong_the_new_empire_ver14_xxlg.jpg",Godzilla x Kong: The New Empire (2024)
-https://e4uqft19bm9c.enaak-cdn.com/hls2/01/01690/adz0osbm22ll_n/index-v1-a1.m3u8?t=gue5fk3nIn6GzYKbnYgggV2DPshavg_Ba-xIUmeYpaA&s=1716215796&e=129600&f=8453835&srv=ycI2Hawt23ZP&i=0.4&sp=500&p1=ycI2Hawt23ZP&p2=ycI2Hawt23ZP&asn=7713
-
-
-#EXTINF:-1 tvg-name="Test" tvg-logo="https://www-detik-com.cdn.ampproject.org/v/s/www.detik.com/pop/movie/d-7222302/penjelasan-lengkap-ending-dune-part-two/amp?amp_js_v=0.1&usqp=mq331AQA#",Test
+#EXTINF:-1 tvg-id="channel1" tvg-name="Dune: Part Two" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/4d/Poster_film_dune_part_two.jpg",Dune: Part Two
 https://cdn110.minkyuo.com/data/2/0F/2stbi0x9Nfp2aQWfmBVvaBrQ3BULgUu2qTI/2stbi0x9Nfp2aQWfmBVvaBrQ3BULgUu2qTI720.m3u8
