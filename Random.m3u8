@@ -1,5 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="channel3" tvg-name="Godzilla x Kong: The New Empire (2024)" tvg-logo="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2024/03/godzilla_x_kong_the_new_empire_ver14_xxlg.jpg",
-#EXTVLCOPT:https://s2.athenacdn39.store/cdn/down/b3d7c8d0ac0c6c75d3462fce12358e39/Subtitle/ee665c19d792d0c55a1cdcfabd2722f7.vtt
-https://jeniusplay.com/m3/eC9vMjFnZE4wNlNMR0RINmpKV2hxRGMvbVBkbUNIdFM3cjVmYUd6czA2VnZubHBVMm9icTF5ZzlLT085OXltTG05S3V3MkI2ek9ZeEY4UEt0Wmh6anl0NUFocWhkOFc1V1VwSEoyRDZzV2ZLWW5UVXAyWHUrUkwzYWxEakZvWnJHbGYvaTZRNkFvRWpCd3E5d043TFpKQ0JxblpEVVVHYzk1Z2ZoYWNWYmtTdldvYWNhVHd0aDUvYmlTWHNRQjJqakVBSlNrSnZQb2l0YkVrcEJVVXlIS0VEdFNwMTMyaktHVFQrTEVpM0kvd3QvVHR4NDd0d0c0dVpFZ3U5YWhCaXo4ZkJOWDRnSWlpNVRJTklzU1M0a0dKSnh6WWkyVkFXQkszWmRVSjlPYzQ9
+#EXTINF:-1 tvg-name="Despicable Me 4 (2024)" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/07/08/despicable-me-4.jpeg?w=1200",Despicable Me 4 (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/05/Despicable.Me.4.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Furiosa: A Mad Max Saga (2024)" tvg-logo="https://awsimages.detik.net.id/community/media/visual/2024/05/23/furiosa-a-mad-max-saga_34.jpeg?w=1200&q=90",Furiosa: A Mad Max Saga (2024)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jun/09/Furiosa.A.Mad.Max.Saga.2024.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="The Convert (2023)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRlMjE4YzYtMGJkMS00MDcyLThjYzYtNjAzN2YzOWZiZGY1XkEyXkFqcGdeQXVyODg1MTc3MTM@._V1_.jpg",The Convert (2023)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Jul/05/The.Convert.2024.mp4/tracks-v1a1/mono.m3u8
